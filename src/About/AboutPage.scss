@@ -1,0 +1,49 @@
+.about-page{
+    .about{
+        display: flex;
+        justify-content: center;
+        margin-top: 145px;
+        img{
+            height: 445px;
+        }
+        .about-section{
+            width: 545px;
+            padding-left: 50px;
+            h6{
+                color: #728C00;
+                font-size: 20px;
+                display: contents;
+            }
+            span{
+                color: #728C00;
+            }
+            p{
+                font-weight: initial;
+
+                i{
+                    color: #728C00;
+                }
+            }
+
+            .menu-container{
+                display: flex;
+
+                .menu2{
+                    padding-left: 50px;
+                }
+            }
+            .read-more{
+                margin-top: 30px;
+                a{
+                    text-decoration: none;
+                    background: #728C00;
+                    color: white;
+                    padding: 13px;
+                    font-weight: 600;
+                }
+
+            }
+           
+        }
+    }
+}

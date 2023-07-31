@@ -1,0 +1,56 @@
+.Header-container{
+    background-color: black;
+    .social-contact{
+        display: flex;
+        justify-content: space-between;
+        color: antiquewhite;
+        
+
+        .location-phone{
+            margin: 5px;
+            small{
+                padding: 18px;
+                cursor: pointer;
+            }
+        }
+        .social-icons{
+            margin: 5px;
+            span{
+               
+                cursor: pointer;
+                a{
+                    border: 2px solid white;
+                    border-radius: 37%;
+                    padding: 8px;
+                    margin: 0px 10px;
+                    color: white;
+                    text-decoration: none;
+                    
+                   
+                }
+                .fa-youtube {
+                    background: #bb0000;
+                    color: white;
+                    font-size:12px ;
+
+                  }
+                  .fa-linkedin {
+                    background: #125688;
+                    color: white;
+                    font-size:12px ;
+                  }
+                  .fa-facebook {
+                    background: #3B5998;
+                    color: white;
+                    font-size:12px ;
+                  }
+                  .fa-twitter {
+                    background: #55ACEE;
+                    color: white;
+                    font-size:12px ;
+                  }
+                  
+            }
+        }
+    }
+}

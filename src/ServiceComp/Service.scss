@@ -1,0 +1,29 @@
+.service-container {
+  .services {
+
+    text-align: center;
+
+    h4{
+        margin-top: 80px;
+        font-size: 21px;
+        color: #728C00;
+        
+    }
+
+    .our-service {
+        display: flex;
+        justify-content: center;
+      .service-item {
+        width: 212px;
+        box-shadow: 1px 1px 7px black;
+        margin: 25px;
+        text-align: start;
+        padding: 5px;
+        i{
+            font-size: 24px;
+            color: #728C00;
+        }
+      }
+    }
+  }
+}
