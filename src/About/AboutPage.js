@@ -7,14 +7,15 @@ const AboutPage = () => {
       <div className="about">
         <img src="about.jpg" alt="" />
         <div className="about-section">
-          <h6 >About Us</h6>
+          <h6>About Us</h6>
 
           <h1>
             Welcome To <span>Tourist</span>
           </h1>
           <p>
             Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-            diam amet diam et eos. Clita erat ipsum et lorem et sit.
+            diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
+            lorem sit clita duo justo magna dolore erat amet
           </p>
           <p>
             Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
